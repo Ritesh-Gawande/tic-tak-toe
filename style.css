@@ -4,7 +4,7 @@
   }
   
   body {
-    background-color: #548687;
+    background-color: aquamarine;
     text-align: center;
   }
   
@@ -31,7 +31,7 @@
     width: 18vmin;
     border-radius: 1rem;
     border: none;
-    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.663);
     font-size: 8vmin;
     color: #b0413e;
     background-color: #ffffc7;
@@ -56,7 +56,7 @@
   }
   
   #msg {
-    color: #ffffc7;
+    color: #f4f415;
     font-size: 5vmin;
   }
   
